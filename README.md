@@ -11,4 +11,10 @@ Never open the game using the exe itself but using the launchers exe to prevent 
 
 Please feel free to report any issues
 
+Minimum Requirements:
+  1. GPU should be minimum 750ti or better
+  2. CPU should be minimum i5 4th gen
+  3. RAM should be more than or equal to 4gb ram
+  4. A stable internet connection of equal or more than 512 kbps
+
 Regards Aarav Dayal
