@@ -1,4 +1,4 @@
-# sruti
+# Sruti
 Introducing my new game called Sruti
 
 I know that the name might sound absurd but is related to the main intention of my game.
