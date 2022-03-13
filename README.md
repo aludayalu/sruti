@@ -7,7 +7,7 @@ To download and play test sruti you can download the launcher.exe and then run i
 
 The launcher will automatically keep record of updates and update the game on launches.
 
-Never open the game using the exe itself but using the launchers exe to prevent any update issues.
+Never open the game using the exe itself but using the launcher to prevent any update or launch issues.
 
 Please feel free to report any issues
 
